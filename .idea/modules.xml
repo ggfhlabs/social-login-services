@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/s1-simple-fb-login/social-simple.iml" filepath="$PROJECT_DIR$/s1-simple-fb-login/social-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s2-html-fb-login/social-click.iml" filepath="$PROJECT_DIR$/s2-html-fb-login/social-click.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s3-fb-logout/s3-fb-logout.iml" filepath="$PROJECT_DIR$/s3-fb-logout/s3-fb-logout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s4-manual-config/s4-manual-config.iml" filepath="$PROJECT_DIR$/s4-manual-config/s4-manual-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s5-github-login/s5-github-login.iml" filepath="$PROJECT_DIR$/s5-github-login/s5-github-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s6-complete-auth-server/s6-complete-auth-server.iml" filepath="$PROJECT_DIR$/s6-complete-auth-server/s6-complete-auth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s7-error-handling/s7-error-handling.iml" filepath="$PROJECT_DIR$/s7-error-handling/s7-error-handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security-oauth-services.iml" filepath="$PROJECT_DIR$/security-oauth-services.iml" />
+    </modules>
+  </component>
+</project>

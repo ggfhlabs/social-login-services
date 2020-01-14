@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="s4-manual-config" />
+        <module name="s3-fb-logout" />
+        <module name="s1-simple-fb-login" />
+        <module name="s6-complete-auth-server" />
+        <module name="s7-error-handling" />
+        <module name="s2-html-fb-login" />
+        <module name="s5-github-login" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="s1-simple-fb-login" target="1.8" />
+      <module name="s2-html-fb-login" target="1.8" />
+      <module name="s3-fb-logout" target="1.8" />
+      <module name="s4-manual-config" target="1.8" />
+      <module name="s5-github-login" target="1.8" />
+      <module name="s6-complete-auth-server" target="1.8" />
+      <module name="s7-error-handling" target="1.8" />
+      <module name="security-oauth-services" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="s1-simple-fb-login" options="-parameters" />
+      <module name="s2-html-fb-login" options="-parameters" />
+      <module name="s3-fb-logout" options="-parameters" />
+      <module name="s4-manual-config" options="-parameters" />
+      <module name="s5-github-login" options="-parameters" />
+      <module name="s6-complete-auth-server" options="-parameters" />
+      <module name="s7-error-handling" options="-parameters" />
+    </option>
+  </component>
+</project>

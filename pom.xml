@@ -1,0 +1,26 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>org.springframework.guides</groupId>
+	<artifactId>security-oauth-services</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<name>security-oauth-services</name>
+
+	<modules>
+		<module>s1-simple-fb-login</module>
+		<module>s2-html-fb-login</module>
+		<module>s3-fb-logout</module>
+		<module>s4-manual-config</module>
+		<module>s5-github-login</module>
+		<module>s6-complete-auth-server</module>
+		<module>s7-error-handling</module>
+	</modules>
+	
+    <build>
+      <plugins>
+      </plugins>
+    </build>
+
+</project>
