@@ -1,5 +1,4 @@
 package com.example;
-
 import java.security.Principal;
 
 import javax.servlet.Filter;
